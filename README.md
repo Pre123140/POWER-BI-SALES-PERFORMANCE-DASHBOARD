@@ -12,7 +12,6 @@ The goal of this project was to design a dynamic and business-friendly dashboard
 - Analyze total sales, profit, and orders over time
 - Monitor KPIs like growth, margin, achievement %, and target benchmarks
 - Understand category-wise and region-wise performance
-- Use filters and drill-throughs for deeper exploration
 
 ---
 
