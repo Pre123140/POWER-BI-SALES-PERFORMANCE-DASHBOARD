@@ -1,13 +1,13 @@
-# 📊 Power BI Project – Sales Performance Dashboard
+# Power BI Project – Sales Performance Dashboard
 
-## 📁 Dataset
+## Dataset
 **Filename:** `Power BI Project - Sales Performance Dashboard.xlsx`
 
 This Excel file contains transactional sales data used to build an interactive Power BI dashboard. It includes key fields like Order ID, Product Category, Sales Amount, Profit, Region, and Order Date.
 
 ---
 
-## 🎯 Objective
+##  Objective
 The goal of this project was to design a dynamic and business-friendly dashboard that enables sales teams and decision-makers to:
 - Analyze total sales, profit, and orders over time
 - Monitor KPIs like growth, margin, achievement %, and target benchmarks
@@ -15,7 +15,7 @@ The goal of this project was to design a dynamic and business-friendly dashboard
 
 ---
 
-## 💡 Features & Highlights
+## Features & Highlights
 - **Interactive KPIs**: Total Sales, Total Profit, Total Orders, Profit Margin, Sales Growth %
 - **DAX-Powered Metrics**:
   - Year-over-Year (YoY) and Month-over-Month (MoM) calculations
@@ -33,7 +33,7 @@ The goal of this project was to design a dynamic and business-friendly dashboard
 
 ---
 
-## 📐 DAX Measures Explained
+## DAX Measures Explained
 - **Total Sales**: Sum of all transaction sales (main KPI)
 - **Total Profit**: Sum of profit (Sales - Cost)
 - **Total Orders**: Count of distinct transactions
@@ -50,7 +50,7 @@ The goal of this project was to design a dynamic and business-friendly dashboard
 
 ---
 
-## 📌 Strategic Insights
+## Strategic Insights
 This dashboard bridges the gap between raw data and executive decision-making by offering:
 - Instant visibility into performance KPIs
 - Business alignment via target benchmarks and achievements
@@ -64,7 +64,7 @@ It’s ideal for:
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 > Include visuals such as:
 > - KPI dashboard (Total Sales, Profit, Growth %)
 > - Region-wise bar chart
@@ -74,16 +74,16 @@ It’s ideal for:
 
 ---
 
-## 🛠️ Tools Used
+## 🛠Tools Used
 - **Power BI Desktop**
 - **Microsoft Excel** (data source)
 - **DAX** for all calculated columns and measures
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 ```
-📁 Power-BI-Sales-Dashboard/
+Power-BI-Sales-Dashboard/
 ├── 📄 Power BI Project - Sales Performance Dashboard.xlsx
 ├── 📄 Power_BI_Sales_Dashboard.pbix
 ├── 📄 README.md
@@ -92,5 +92,12 @@ It’s ideal for:
 
 ---
 
-## 📬 Contact
+## License
+
+This project is open for educational use only. For commercial deployment, contact the author.
+
+---
+
+## Contact
 If you'd like to learn more or collaborate on projects or other initiatives, feel free to connect on [LinkedIn](https://www.linkedin.com/in/prerna-burande-99678a1bb/) or check out my [portfolio site](https://youtheleader.com/).
+
