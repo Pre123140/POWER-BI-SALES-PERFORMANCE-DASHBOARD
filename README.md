@@ -93,4 +93,4 @@ It’s ideal for:
 ---
 
 ## 📬 Contact
-If you have any questions or would like to collaborate, feel free to connect with me on [LinkedIn](#) or check out my [portfolio website](#).
+If you'd like to learn more or collaborate on projects or other initiatives, feel free to connect on [LinkedIn](https://www.linkedin.com/in/prerna-burande-99678a1bb/) or check out my [portfolio site](https://youtheleader.com/).
